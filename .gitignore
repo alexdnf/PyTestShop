@@ -1,0 +1,17 @@
+# Настройки IDE
+.idea/
+.gigaide/
+*.iml
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Секреты и системный мусор
+.env
+.DS_Store
+Thumbs.db
